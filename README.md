@@ -252,6 +252,3 @@ Mailing Lists
 
 * [Google group for Docker Users](https://groups.google.com/forum/#!forum/docker-user)
 * [Google group for Docker development discussions](https://groups.google.com/forum/#!forum/docker-dev)
-
-
-LN: I added this test line..
